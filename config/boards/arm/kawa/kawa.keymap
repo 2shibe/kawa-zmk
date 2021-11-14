@@ -46,7 +46,7 @@
 		blank {
 // Just so you have access to layer 3
 			bindings = <
-	&trans          &trans            &trans           &trans          &trans          &trans        &trans          &trans            &trans           &trans           &trans           &trans        &trans        &trans           &trans
+	&trans          &trans            &trans           &trans          &trans          &trans        &trans          &trans            &trans           &trans           &trans           &trans        &kp C_PREV       &kp C_PP           &kp C_NEXT
 	&trans          &trans            &trans           &trans          &trans          &trans        &trans          &trans            &trans           &trans           &trans           &trans        &trans        &trans
 	&trans          &trans            &trans           &trans          &trans          &trans        &trans          &trans            &trans           &trans           &trans           &trans                      &trans           
 	&trans          &trans            &trans           &trans          &trans          &trans        &trans          &trans            &trans           &trans           &trans           &trans        &mo 3
